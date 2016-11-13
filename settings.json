@@ -1,0 +1,7 @@
+{
+ "fritidsbanken.eu.meteorapp.com": {
+   "env": {
+     "MONGO_URL": "mongodb://test:2sBH3xvd@ds147537.mlab.com:47537/meteor"
+   }
+ }
+}

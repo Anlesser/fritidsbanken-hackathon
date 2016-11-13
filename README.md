@@ -1,5 +1,8 @@
 # fritidsbanken-hackathon
 Fritidsbanken hackathon
 Setup:
-Download and install meteor.<code>curl https://install.meteor.com/ | sh</code>
-Run with <code>meteor</code>
+Download and install meteor:
+<code>curl https://install.meteor.com/ | sh</code>
+
+Run with: 
+<code>meteor</code>

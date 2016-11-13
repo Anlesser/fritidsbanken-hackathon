@@ -16,7 +16,7 @@ export default class Places extends Component {
                         It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
                         and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
-                <div className="col-lg-4">
+                <div className="col-lg-8">
                     {/*<iframe width="600" height="450" style={{border:0}}*/}
                             {/*src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJXdsqMzKxXEYRGY11rYDCHPw&key=AIzaSyDeDH45Q3Y1snKNX9sfr66Hs94epd33v4k"*/}
                     {/*></iframe>*/}

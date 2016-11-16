@@ -8,6 +8,7 @@ Run with:
 <code>
 meteor npm install
 </code>
+<br/>
 <code>
 meteor
 </code>

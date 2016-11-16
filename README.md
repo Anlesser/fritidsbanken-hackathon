@@ -7,5 +7,7 @@ Download and install meteor:
 Run with: 
 <code>
 meteor npm install
+</code>
+<code>
 meteor
 </code>
